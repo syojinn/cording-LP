@@ -344,6 +344,7 @@
     font-weight: 400;
     color: #fff;
     padding: 50px 40px;
+    text-decoration: none;
 }
 .instagram img {
     width: 70px;
@@ -360,5 +361,5 @@
     padding-top: 70px;
 }
 .text a {
-    text-decoration: none;
+    
 }
