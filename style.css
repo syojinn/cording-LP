@@ -359,3 +359,6 @@
     color: #fff;
     padding-top: 70px;
 }
+.text a {
+    text-decoretion: none;
+}
